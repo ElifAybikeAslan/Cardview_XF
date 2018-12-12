@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Cardview_XF.Views;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +12,7 @@ namespace Cardview_XF
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Cardview();
         }
 
         protected override void OnStart()

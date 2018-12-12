@@ -157,4 +157,13 @@
       <Name>Cardview_XF</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tarih.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\btnKirmizi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\btnYesil.png" />
+  </ItemGroup>
 </Project>
